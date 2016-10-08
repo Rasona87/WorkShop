@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Rasona Scoggins"
+date: "October 8,2016"
 output: html_document
 ---
 
@@ -12,15 +12,15 @@ knitr::opts_chunk$set(echo = TRUE)
 Our project will be done using a sequence of save and commits.
 
 ## First Verse 
-<’Twas brillig, and the slithy toves
-      Did gyre and gimble in the wabe:
-All mimsy were the borogoves,
-      And the mome raths outgrabe.
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
 
-“Beware the Jabberwock, my son!
-      The jaws that bite, the claws that catch!
-Beware the Jubjub bird, and shun
-      The frumious Bandersnatch!” >
+“Beware the Jabberwock, my son!  
+      The jaws that bite, the claws that catch!  
+Beware the Jubjub bird, and shun  
+      The frumious Bandersnatch!”   
 
 ## Second Verse
 <Put the first two verses of The Road Not Taken by Robert Frost here>
